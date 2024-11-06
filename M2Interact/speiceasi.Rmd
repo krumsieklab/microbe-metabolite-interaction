@@ -1,0 +1,31 @@
+---
+title: "Speiceasi-run"
+output: html_document
+params:
+  conda_env: "speiceasi_env"  # Replace with your environment name
+date: "2024-11-04"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+
+```{r}
+library(processx)
+
+# Define the R path in your Conda environment
+r_path <- "/Users/chb4004/miniconda3/envs/speiceasi_env/bin/R"
+
+# Use processx to run rmarkdown::render with the specific R path
+processx::run(
+  command = r_path,
+  args = c("-e", "rmarkdown::render('speiceasi.Rmd')")
+)
+
+```
+
+```{r}
+library(SpiecEasi)
+```

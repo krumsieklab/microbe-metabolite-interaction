@@ -1,0 +1,49 @@
+Microbe,Metabolite,Weight,OR_Value
+rplo 1 (Cyanobacteria),(3-methyladenine),1,0.0
+rplo 1 (Cyanobacteria),(N6-acetyl-lysine),1,0.00016279686693806324
+rplo 1 (Cyanobacteria),4-guanidinobutanoate,1,0.0004690010193619264
+rplo 1 (Cyanobacteria),7-methyladenine,1,0.0005245458321702555
+rplo 1 (Cyanobacteria),adenine,1,0.0
+rplo 1 (Cyanobacteria),adenosine,1,0.0004755682409570143
+rplo 1 (Cyanobacteria),cytosine,1,0.0
+rplo 1 (Cyanobacteria),guanine,1,0.0
+rplo 1 (Cyanobacteria),hypoxanthine,1,0.000632071729252335
+rplo 1 (Cyanobacteria),N-acetyl-glutamate,1,159.6525142197497
+rplo 1 (Cyanobacteria),N-acetylornithine,1,0.0003348960350088626
+rplo 1 (Cyanobacteria),succinate,1,0.000286930004949462
+rplo 1 (Cyanobacteria),uracil,1,194.8814690730903
+rplo 1 (Cyanobacteria),xanthine,1,0.0005274024548972063
+rplo 1 (Cyanobacteria),citrulline,1,4.374156634974329e-05
+rplo 1 (Cyanobacteria),glutamate,1,51.95567817480977
+rplo 1 (Cyanobacteria),disaccharide (maltose),1,206.57298572557914
+rplo 1 (Cyanobacteria),glutamine,1,0.00016372003226672806
+rplo 2 (Firmicutes),disaccharide (maltose),1,103.60727736549104
+rplo 2 (Firmicutes),glutamate,1,0.0
+rplo 2 (Firmicutes),myristate,1,6.641372749251582e-05
+rplo 2 (Firmicutes),guanine,1,0.0
+rplo 2 (Firmicutes),glutamine,1,0.0
+rplo 2 (Firmicutes),cytosine,1,0.0
+rplo 2 (Firmicutes),hypoxanthine,1,0.0001785699256708698
+rplo 2 (Firmicutes),uracil,1,0.00011766380202238851
+rplo 2 (Firmicutes),(N6-acetyl-lysine),1,0.0
+rplo 2 (Firmicutes),myristate,1,6.641372749251582e-05
+rplo 2 (Firmicutes),glutamate,1,0.0
+rplo 2 (Firmicutes),glutamine,1,0.0
+rplo 60 (Firmicutes),disaccharide (maltose),1,3.128830320774499
+rplo 60 (Firmicutes),adenine,1,0.0
+rplo 60 (Firmicutes),citrulline,1,0.0
+rplo 60 (Firmicutes),guanine,1,0.0
+rplo 60 (Firmicutes),xanthine,1,0.0
+rplo 60 (Firmicutes),uracil,1,0.0
+rplo 60 (Firmicutes),hypoxanthine,1,0.0
+rplo 60 (Firmicutes),(N6-acetyl-lysine),1,0.0
+rplo 60 (Firmicutes),adenosine,1,0.0
+rplo 60 (Firmicutes),proline,1,0.0
+rplo 60 (Firmicutes),citrulline,1,0.0
+rplo 7 (Actinobacteria),(N6-acetyl-lysine),1,0.0
+rplo 7 (Actinobacteria),xanthine,1,0.0
+rplo 7 (Actinobacteria),glutamate,1,0.0
+rplo 7 (Actinobacteria),disaccharide (maltose),1,21.000637044651498
+rplo 7 (Actinobacteria),hypoxanthine,1,0.0
+rplo 7 (Actinobacteria),adenine,1,0.0
+rplo 7 (Actinobacteria),guanine,1,0.0
