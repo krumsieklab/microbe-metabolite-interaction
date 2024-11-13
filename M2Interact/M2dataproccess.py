@@ -89,7 +89,6 @@ def make_compositional(data, transform='clr', scale='none'):
     # Step 1: Convert to relative abundances (Compositional normalization)
     row_sums = data_array.sum(axis=1, keepdims=True)
     data_rel = data_array / row_sums
-    print(data_rel)
 
     # Step 2: Perform multiplicative replacement to handle zero values in compositional data
     data_nonzero = multiplicative_replacement(data_rel)  
