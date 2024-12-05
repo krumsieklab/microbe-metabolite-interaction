@@ -1,2 +1,9 @@
 # microbe-metabolite-interaction
-Codebase- CB
+
+
+Installing:
+
+```
+cd microbe-metabolite-interaction/M2Interact
+conda env create -f environment.yaml
+```
