@@ -43,7 +43,7 @@ Code:
 1. Please run the code present in https://github.com/krumsieklab/microbe-metabolite-interaction/blob/main/M2Interact/twinsuk.ipynb
 2. The data location need to be updated in the first box
 3. You should not change/update any other code blocks or files
-4. The code is in form of a notebook, extension for running it has to be installed
+4. The code is in form of a python notebook, extension for running it has to be installed (Eg: Jupyter Notebook, IPY kernel in VS Code)
 5. The code also requires to install packages either which are present in requirement.txt/environment.yaml
 
 Expected Output (On running succesfully this will be generated):
